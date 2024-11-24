@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+
+<html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Event Managment</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="~/Admin/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="~/Admin/vendors/css/vendor.bundle.base.css">
+    <!-- endinject -->
+    <!-- Plugin css for this page -->
+    <link rel="stylesheet" href="~/Admin/vendors/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/Admin/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css">
+    <!-- End plugin css for this page -->
+    <!-- Layout styles -->
+    <link rel="stylesheet" href="~/Admin/css/demo_1/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+    <!-- End layout styles -->
+</head>
+<body>
+  
+    <div class="container-scroller">
+        <div class="row p-0 m-0 proBanner" id="proBanner">
+            <div class="col-md-12 p-0 m-0">
+                </div>
+            </div>
+        </div>
+        <!-- partial:partials/_navbar.html -->
+        <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-start">
+            <a class="navbar-brand brand-logo" href="/admin/home/index"><img src="~/Admin/images/logo.svg" alt="logo" /></a>
+            <a class="navbar-brand brand-logo-mini" href="/admin/home/index"><img src="~/Admin/images/logo-mini.svg" alt="logo" /></a>
+            </div>
+            <div class="navbar-menu-wrapper d-flex align-items-stretch">
+                <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+                    <span class="mdi mdi-menu"></span>
+                </button>
+                
+            
+                <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+                    <span class="mdi mdi-menu"></span>
+                </button>
+            </div>
+        </nav>
+        <!-- partial -->
+        <div class="container-fluid page-body-wrapper">
+            <!-- partial:partials/_settings-panel.html -->
+   
+          
+            <!-- partial -->
+            <!-- partial:partials/_sidebar.html -->
+            <nav class="sidebar sidebar-offcanvas" id="sidebar">
+            <ul class="nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/admin/home/index">
+                        <span class="menu-title">Dashboard</span>
+                        <i class="mdi mdi-home menu-icon"></i>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/admin/Event/list">
+                        <span class="menu-title">Events</span>
+                        <i class="mdi mdi-format-list-bulleted menu-icon"></i>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/admin/Location/list">
+                        <span class="menu-title">Locations</span>
+                        <i class="mdi mdi-map-marker menu-icon"></i>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/admin/Participant/list">
+                        <span class="menu-title">Participants</span>
+                        <i class="mdi mdi-account-group menu-icon"></i>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/admin/AccessList/list">
+                        <span class="menu-title">Access List</span>
+                        <i class="mdi mdi mdi-security menu-icon"></i>
+                    </a>
+                </li>
+            </ul>
+            </nav>
+            <!-- partial -->
+            <div class="main-panel">
+            <div id="warningMessageContainer"></div>
+                        @RenderBody()
+          
+                <!-- partial -->
+            </div>
+            <!-- main-panel ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+        <script src="~/Admin/vendors/js/vendor.bundle.base.js"></script>
+        <script src="~/Admin/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+        <script src="~/Admin/js/hoverable-collapse.js"></script>
+        <script src="~/Admin/js/misc.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Function to fetch warnings
+            function fetchWarnings() {
+                $.get('/admin/home/getwarnings', function (data) {
+                    if (data.warnings) {
+                        // Clear existing warnings before appending new ones
+                        $('#warningMessageContainer').empty();
+
+                        // Append the new warning message
+                        $('#warningMessageContainer').append(`
+                            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                ${data.warnings}
+                                <button type="button" class="close" aria-label="Close" onclick="dismissWarning()">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                        `);
+                    }
+                });
+            }
+
+            // Fetch warnings immediately on page load
+            fetchWarnings();
+
+            // Set an interval to check for warnings every 30 seconds (30000 ms)
+            setInterval(fetchWarnings, 30000);
+        });
+
+        // Function to dismiss the warning
+        function dismissWarning() {
+            $('#warningMessageContainer').empty(); // Clear the warning message
+        }
+
+        // Function to dismiss the warning message
+        function dismissWarning() {
+            $('#warningMessageContainer').hide();
+            localStorage.setItem('warningDismissed', 'true');
+        }
+    </script>
+        @RenderSection("scripts",false) 
+    </body>
+
+</html>

@@ -1,0 +1,76 @@
+﻿@model TbParticipant
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-md-8 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Edit Participant</h4>
+                    @if (!ViewData.ModelState.IsValid)
+                    {
+                        <div class="alert alert-danger">
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                <p>@error.ErrorMessage</p>
+                            }
+                        </div>
+                    }
+                    <form class="forms-sample" method="post" enctype="multipart/form-data"
+                          asp-controller="Participant" asp-action="Save" role="form">
+                        <input asp-for="ParticipantId" type="hidden" />
+
+                        <div class="form-group">
+                            <label for="participantName">Participant Name</label>
+                            <input asp-for="ParticipantName" type="text" class="form-control" placeholder="Enter Participant Name" />
+                            <span asp-validation-for="ParticipantName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input asp-for="Email" type="email" class="form-control" placeholder="Enter Email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="phone">Phone</label>
+                            <input asp-for="Phone" type="text" class="form-control" placeholder="Enter Phone Number" />
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="events">Events Attended</label>
+                            @if (ViewBag.Events != null)
+                            {
+                                <select asp-for="EventParticipants" class="form-control select2" multiple="multiple" name="eventIds">
+                                    @foreach (var eventItem in ViewBag.Events)
+                                    {
+                                        <option value="@eventItem.EventId" selected=@(Model.EventParticipants.Any(ep => ep.EventId == eventItem.EventId) ? "selected" : null)>
+                                            @eventItem.EventName
+                                        </option>
+                                    }
+                                </select>
+                            }
+                            <span asp-validation-for="EventParticipants" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-gradient-primary me-2">Save</button>
+                        <a href="@Url.Action("List", "Participant")" class="btn btn-light">@ResGeneral.lblCancel</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+    
+    <script>
+        $(document).ready(function() {
+            $('.select2').select2();
+        });
+    </script>
+}

@@ -1,0 +1,67 @@
+﻿@model List<TbLocation>
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Locations List</h4>
+            <div class="card-description">
+                <a href="/Admin/Location/Edit" class="btn btn-gradient-primary btn-fw">New</a>
+            </div>
+            <div class="table-responsive">
+                <table id="order-listing" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th> @ResAdmin.lblLocation </th>
+                            <th> @ResAdmin.lblAddress </th>
+                            <th> @ResAdmin.lblCity </th>
+                            <th> @ResAdmin.lblState </th>
+                            <th> @ResAdmin.lblZipCode </th>
+                            <th> @ResAdmin.lblCapacity </th>
+                            <th> @ResGeneral.lblAction </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var Location in Model)
+                        {
+                            <tr>
+                                <td>@Location.LocationName </td>
+                                <td> @Location.Address </td>
+                                <td> @Location.City </td>
+                                <td> @Location.State </td>                             
+                                <td> @Location.ZipCode </td>
+                                <td> @Location.Capacity </td>
+
+                                <td>
+                                    <a class="btn btn-gradient-info btn-fw" asp-controller="Location" asp-action="Edit" asp-route-id="@Location.LocationId">Edit </a>
+                                    <a class="btn btn-gradient-danger btn-fw" asp-controller="Location" asp-action="Delete" asp-route-id="@Location.LocationId"
+                                       onclick="return confirm('Are you sure you want to delete this category?');">
+                                        Delete
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+            </div>
+           
+        </div>
+    </div>
+</div>
+
+
+@section Scripts
+{
+    <!-- Plugin js for this page -->
+    <script src="~/Admin/vendors/datatables.net/jquery.dataTables.js"></script>
+    <script src="~/Admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+    <!-- End plugin js for this page -->
+    <!-- Custom js for this page -->
+    <script src="~/Admin/js/data-table.js"></script>
+
+    <!-- End custom js for this page -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+}

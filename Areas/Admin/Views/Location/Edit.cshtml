@@ -1,0 +1,68 @@
+﻿@model TbLocation
+
+<div class="content-wrapper">
+
+    <div class="row">
+        <div class="col-md-8 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Edit Location</h4>
+                    <form class="forms-sample" method="post" enctype="multipart/form-data"
+                          asp-controller="Location" asp-action="Save" role="form">
+                        <input asp-for="LocationId" type="hidden" />
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblLocation</label>
+                            <input asp-for="LocationName" type="text" class="form-control" placeholder="@ResAdmin.lblLocation">
+                            <span asp-validation-for="LocationName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblAddress</label>
+                            <input asp-for="Address" type="text" class="form-control" placeholder="@ResAdmin.lblAddress">
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblCity</label>
+                            <input asp-for="City" type="text" class="form-control" placeholder="@ResAdmin.lblCity">
+                            <span asp-validation-for="City" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblState</label>
+                            <input asp-for="State" type="text" class="form-control" placeholder="@ResAdmin.lblState">
+                            <span asp-validation-for="State" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblZipCode</label>
+                            <input asp-for="ZipCode" type="number" class="form-control" placeholder="@ResAdmin.lblZipCode">
+                            <span asp-validation-for="ZipCode" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblCapacity</label>
+                            <input asp-for="Capacity" type="number" class="form-control" placeholder="@ResAdmin.lblCapacity">
+                            <span asp-validation-for="Capacity" class="text-danger"></span>
+                        </div>
+                        
+                        <button type="submit" formmethod="post" class="btn btn-gradient-primary me-2">@ResGeneral.lblSave</button>
+                        <a href="@Url.Action("List", "Location")" class="btn btn-light">@ResGeneral.lblCancel</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <script>
+            var errors = @Html.Raw(Json.Serialize(ViewData.ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage)));
+            errors.forEach(function (error) {
+                toastr.error(error);
+            });
+        </script>
+    }
+}
+
+

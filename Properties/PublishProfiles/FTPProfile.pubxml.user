@@ -1,0 +1,1455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEINMT+IqS0S9rOQCo381GwAAAAACAAAAAAAQZgAAAAEAACAAAABec0jGkm4FWIE+QJkorrfvVyXM3bA0m0SbYH/IRbtiLgAAAAAOgAAAAAIAACAAAAC862Tup2OOMK6uHNPerxXkufCy7TLj7eOHrtbuBStcbTAAAADYum0tRFVRjsDdoy+BbxtLW6DroyaL++bYCS9/FkuGQpFs4GfLSjURPhJNb9JDA1ZAAAAACB7XY3HBn51lV3sAi/rQzpp4dfDbqO64Fu1n3jjaCN/xKLA4iQxIRsnkQs3a0uZzz+w55bkFYqZGpoANayVRVA==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://w01f8963.kasserver.com/http://fe0b0e875656138f.assessment.munnich.it/</_PublishTargetUrl>
+    <History>True|2024-10-28T15:37:00.7871980Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/27/2024 02:26:01</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/28/2024 18:53:42</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>09/07/2023 21:50:30</publishTime>
+    </File>
+    <File Include="Azure.Identity.dll">
+      <publishTime>10/18/2023 23:59:42</publishTime>
+    </File>
+    <File Include="Event_managment.deps.json">
+      <publishTime>10/28/2024 18:58:10</publishTime>
+    </File>
+    <File Include="Event_managment.dll">
+      <publishTime>10/28/2024 18:58:04</publishTime>
+    </File>
+    <File Include="Event_managment.exe">
+      <publishTime>10/28/2024 18:58:04</publishTime>
+    </File>
+    <File Include="Event_managment.pdb">
+      <publishTime>10/28/2024 18:58:04</publishTime>
+    </File>
+    <File Include="Event_managment.runtimeconfig.json">
+      <publishTime>10/28/2024 12:12:47</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/23/2021 03:47:36</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>01/27/2024 06:49:44</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>09/18/2024 03:49:08</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>09/18/2024 03:49:44</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>09/18/2024 03:50:04</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>09/18/2024 03:50:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Memory.dll">
+      <publishTime>09/17/2024 03:10:10</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>09/17/2024 03:09:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>09/17/2024 03:09:36</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>09/17/2024 03:09:58</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.dll">
+      <publishTime>09/17/2024 03:10:06</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>01/18/2024 07:05:26</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>09/05/2023 22:25:28</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.Extensions.Msal.dll">
+      <publishTime>09/05/2023 22:31:58</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>12/01/2023 08:56:56</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>12/01/2023 08:34:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>12/01/2023 08:35:22</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>12/01/2023 08:37:28</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>12/01/2023 08:48:08</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>12/01/2023 08:41:50</publishTime>
+    </File>
+    <File Include="Microsoft.SqlServer.Server.dll">
+      <publishTime>01/27/2022 21:19:08</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/23/2021 03:40:24</publishTime>
+    </File>
+    <File Include="MySqlConnector.dll">
+      <publishTime>01/20/2024 16:54:02</publishTime>
+    </File>
+    <File Include="Pomelo.EntityFrameworkCore.MySql.dll">
+      <publishTime>03/16/2024 13:50:50</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>01/27/2024 06:49:42</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/net6.0/System.Drawing.Common.dll">
+      <publishTime>10/23/2021 03:51:42</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/11/2023 22:56:28</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/11/2023 22:56:28</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/11/2023 22:56:18</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/11/2023 22:56:18</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>01/27/2024 06:49:42</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/23/2021 03:40:18</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Drawing.Common.dll">
+      <publishTime>10/23/2021 03:48:10</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Runtime.Caching.dll">
+      <publishTime>10/23/2021 03:52:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/23/2021 03:51:04</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Windows.Extensions.dll">
+      <publishTime>10/23/2021 03:49:58</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>08/19/2022 23:58:02</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>10/23/2021 03:49:12</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>12/01/2023 08:31:48</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>04/08/2021 20:45:54</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>10/23/2021 03:52:02</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/23/2021 03:51:04</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>10/23/2021 03:49:50</publishTime>
+    </File>
+    <File Include="System.Windows.Extensions.dll">
+      <publishTime>10/23/2021 03:49:44</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/28/2024 18:58:10</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/css/demo_1/style.css">
+      <publishTime>10/24/2024 21:24:42</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/css/demo_1/style.css.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Bold.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Bold.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Bold.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Bold.woff2">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Light.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Light.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Light.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Light.woff2">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Medium.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Medium.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Medium.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Medium.woff2">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Regular.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Regular.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Regular.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/fonts/Ubuntu/Ubuntu-Regular.woff2">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/images/logo-mini.svg">
+      <publishTime>10/26/2024 20:54:40</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/images/logo.svg">
+      <publishTime>10/26/2024 21:10:28</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/js/data-table.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/js/Home.js">
+      <publishTime>10/28/2024 00:57:01</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/js/misc.js">
+      <publishTime>10/25/2024 14:22:35</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/scss/demo_1/components/_settings-panel.scss">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/scss/demo_1/style.scss">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/scss/demo_1/_layouts.scss">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/scss/demo_1/_navbar.scss">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/scss/demo_1/_sidebar.scss">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/scss/demo_1/_variables.scss">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/datatables.net/jquery.dataTables.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/js/bootstrap.min.js.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/js/vendor.bundle.base.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/css/lg-fb-comment-box.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/css/lg-fb-comment-box.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/css/lg-transitions.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/css/lg-transitions.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/css/lightgallery.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/css/lightgallery.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/fonts/lg.svg">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/fonts/lg.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/fonts/lg.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/img/loading.gif">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/img/video-play.png">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/img/vimeo-play.png">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/img/youtube-play.png">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/js/lightgallery-all.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/js/lightgallery-all.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/js/lightgallery.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/js/lightgallery.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/lightgallery/lightgallery.css.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/mdi/css/materialdesignicons.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/mdi/css/materialdesignicons.min.css.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/mdi/fonts/materialdesignicons-webfont.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/mdi/fonts/materialdesignicons-webfont.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/font/summernote.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/font/summernote.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/font/summernote.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/font/summernote.woff2">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ar-AR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ar-AR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ar-AR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-az-AZ.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-az-AZ.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-az-AZ.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-bg-BG.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-bg-BG.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-bg-BG.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ca-ES.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ca-ES.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ca-ES.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-cs-CZ.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-cs-CZ.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-cs-CZ.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-da-DK.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-da-DK.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-da-DK.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-de-DE.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-de-DE.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-de-DE.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-el-GR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-el-GR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-el-GR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-es-ES.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-es-ES.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-es-ES.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-es-EU.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-es-EU.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-es-EU.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fa-IR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fa-IR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fa-IR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fi-FI.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fi-FI.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fi-FI.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fr-FR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fr-FR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-fr-FR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-gl-ES.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-gl-ES.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-gl-ES.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-he-IL.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-he-IL.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-he-IL.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-hr-HR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-hr-HR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-hr-HR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-hu-HU.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-hu-HU.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-hu-HU.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-id-ID.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-id-ID.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-id-ID.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-it-IT.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-it-IT.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-it-IT.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ja-JP.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ja-JP.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ja-JP.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ko-KR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ko-KR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ko-KR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-lt-LT.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-lt-LT.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-lt-LT.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-lt-LV.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-lt-LV.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-lt-LV.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-mn-MN.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-mn-MN.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-mn-MN.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-nb-NO.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-nb-NO.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-nb-NO.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-nl-NL.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-nl-NL.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-nl-NL.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pl-PL.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pl-PL.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pl-PL.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pt-BR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pt-BR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pt-BR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pt-PT.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pt-PT.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-pt-PT.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ro-RO.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ro-RO.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ro-RO.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ru-RU.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ru-RU.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ru-RU.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sk-SK.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sk-SK.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sk-SK.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sl-SI.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sl-SI.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sl-SI.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sr-RS-Latin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sr-RS-Latin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sr-RS-Latin.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sr-RS.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sr-RS.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sr-RS.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sv-SE.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sv-SE.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-sv-SE.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ta-IN.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ta-IN.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-ta-IN.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-th-TH.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-th-TH.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-th-TH.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-tr-TR.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-tr-TR.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-tr-TR.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-uk-UA.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-uk-UA.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-uk-UA.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-uz-UZ.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-uz-UZ.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-uz-UZ.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-vi-VN.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-vi-VN.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-vi-VN.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-zh-CN.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-zh-CN.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-zh-CN.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-zh-TW.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-zh-TW.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/lang/summernote-zh-TW.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/plugin/databasic/summernote-ext-databasic.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/plugin/databasic/summernote-ext-databasic.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/plugin/hello/summernote-ext-hello.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/plugin/specialchars/summernote-ext-specialchars.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-0.8.18-dist.zip">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-bs4.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-bs4.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-bs4.js.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-bs4.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-bs4.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-bs4.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-bs4.min.js.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-lite.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-lite.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-lite.js.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-lite.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-lite.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-lite.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote-lite.min.js.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote.js.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote.min.js.LICENSE.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/summernote/dist/summernote.min.js.map">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/ti-icons/css/themify-icons.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/ti-icons/fonts/themify.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/ti-icons/fonts/themify.svg">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/ti-icons/fonts/themify.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/ti-icons/fonts/themify.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/bower.json">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/CHANGELOG.md">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/composer.json">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/icons/default/icons.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/icons/default/icons.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/icons/default/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/jquery.tinymce.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/jquery.tinymce.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/license.txt">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/package.json">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/advlist/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/advlist/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/advlist/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/anchor/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/anchor/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/anchor/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autolink/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autolink/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autolink/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autoresize/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autoresize/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autoresize/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autosave/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autosave/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/autosave/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/bbcode/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/bbcode/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/bbcode/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/charmap/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/charmap/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/charmap/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/code/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/code/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/code/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/codesample/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/codesample/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/codesample/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/colorpicker/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/colorpicker/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/colorpicker/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/contextmenu/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/contextmenu/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/contextmenu/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/directionality/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/directionality/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/directionality/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/emoticons/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/emoticons/js/emojiimages.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/emoticons/js/emojiimages.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/emoticons/js/emojis.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/emoticons/js/emojis.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/emoticons/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/emoticons/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/fullpage/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/fullpage/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/fullpage/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/fullscreen/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/fullscreen/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/fullscreen/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/help/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/help/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/help/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/hr/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/hr/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/hr/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/image/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/image/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/image/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/imagetools/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/imagetools/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/imagetools/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/importcss/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/importcss/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/importcss/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/insertdatetime/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/insertdatetime/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/insertdatetime/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/legacyoutput/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/legacyoutput/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/legacyoutput/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/link/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/link/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/link/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/lists/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/lists/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/lists/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/media/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/media/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/media/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/nonbreaking/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/nonbreaking/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/nonbreaking/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/noneditable/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/noneditable/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/noneditable/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/pagebreak/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/pagebreak/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/pagebreak/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/paste/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/paste/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/paste/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/preview/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/preview/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/preview/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/print/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/print/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/print/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/quickbars/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/quickbars/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/quickbars/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/save/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/save/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/save/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/searchreplace/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/searchreplace/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/searchreplace/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/spellchecker/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/spellchecker/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/spellchecker/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/tabfocus/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/tabfocus/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/tabfocus/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/table/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/table/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/table/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/template/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/template/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/template/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/textcolor/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/textcolor/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/textcolor/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/textpattern/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/textpattern/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/textpattern/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/toc/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/toc/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/toc/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/visualblocks/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/visualblocks/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/visualblocks/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/visualchars/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/visualchars/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/visualchars/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/wordcount/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/wordcount/plugin.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/plugins/wordcount/plugin.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/readme.md">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/dark/content.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/dark/content.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/default/content.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/default/content.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/document/content.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/document/content.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/writer/content.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/content/writer/content.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/content.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/content.inline.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/content.inline.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/content.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/content.mobile.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/content.mobile.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/fonts/tinymce-mobile.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/skin.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/skin.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/skin.mobile.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/skin.mobile.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/skin.shadowdom.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide-dark/skin.shadowdom.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/content.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/content.inline.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/content.inline.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/content.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/content.mobile.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/content.mobile.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/fonts/tinymce-mobile.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/skin.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/skin.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/skin.mobile.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/skin.mobile.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/skin.shadowdom.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/skins/ui/oxide/skin.shadowdom.min.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/themes/mobile/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/themes/mobile/theme.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/themes/mobile/theme.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/themes/silver/index.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/themes/silver/theme.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/themes/silver/theme.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/tinymce.d.ts">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/tinymce.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/tinymce/tinymce.min.js">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/demo.html">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/LICENCE.md">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/typicons.css">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/typicons.eot">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/typicons.json">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/typicons.svg">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/typicons.ttf">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/typicons.woff">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+    <File Include="wwwroot/Admin/vendors/typicons/typicons.woff2">
+      <publishTime>10/11/2021 07:59:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

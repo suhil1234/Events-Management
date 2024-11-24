@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\suhil\source\repos\myproj\Event_managment\Event_managment\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-28T14:55:28.2210522Z;True|2024-10-28T12:12:50.8173481+04:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=w01f8963.kasserver.com%3bDatabase=event_management%3bUser Id=d041ad27%3bPassword=VNfngpFg1AiSJkA7ltOb%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

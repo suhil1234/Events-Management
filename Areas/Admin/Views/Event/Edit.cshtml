@@ -1,0 +1,85 @@
+﻿@model TbEvent
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-md-8 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Edit Event</h4>
+
+                    @if (!ViewData.ModelState.IsValid)
+                    {
+                        <div class="alert alert-danger">
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                                <p>@error.ErrorMessage</p>
+                            }
+                        </div>
+                    }
+
+                    <form class="forms-sample" method="post" enctype="multipart/form-data"
+                          asp-controller="Event" asp-action="Save" role="form">
+                        <input asp-for="EventId" type="hidden" />
+                        <input asp-for="CreatedAt" type="hidden" />
+                        <input asp-for="UpdatedAt" type="hidden" />
+                        
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblEventName</label>
+                            <input asp-for="EventName" type="text" class="form-control" placeholder="@ResAdmin.lblEventName" required>
+                            <span asp-validation-for="EventName" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblEventDate</label>
+                            <input asp-for="EventDate"
+                                   type="datetime-local"
+                                   value="@Model.EventDate.ToString("yyyy-MM-ddTHH:mm")"
+                                   class="form-control"
+                                   placeholder="@ResAdmin.lblEventDate" required>
+                            <span asp-validation-for="EventDate" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="exampleInputUsername1">@ResAdmin.lblLocation</label>
+                            @if (ViewBag.LstLocations == null)
+                            {
+                                <p>No locations available.</p>
+                            }
+                            else
+                            {
+                                <select asp-for="LocationId"
+                                        asp-items="@(new SelectList(ViewBag.LstLocations, "LocationId", "LocationName", Model?.LocationId))"
+                                        class="form-control" required>
+                                    <option value="">-- Select Location --</option>
+                                </select>
+                            }
+                            <span asp-validation-for="LocationId" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="description">@ResAdmin.lblDescription</label>
+                            <textarea asp-for="Description" class="form-control" rows="3" required></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-gradient-primary me-2">@ResGeneral.lblSave</button>
+                        <a href="@Url.Action("List", "Event")" class="btn btn-light">@ResGeneral.lblCancel</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-un"></script>
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <script>
+            toastr.error('@Html.Raw(ViewData.ModelState[""].Errors.FirstOrDefault()?.ErrorMessage)');
+        </script>
+    }
+}
+
+

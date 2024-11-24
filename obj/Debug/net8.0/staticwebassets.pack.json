@@ -1,0 +1,1725 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\css\\demo_1\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\demo_1\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\css\\demo_1\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\demo_1\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\js\\Home.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Home.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\js\\misc.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\scss\\demo_1\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\demo_1\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\scss\\demo_1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\demo_1\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\scss\\demo_1\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\demo_1\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\scss\\demo_1\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\demo_1\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\scss\\demo_1\\components\\_settings-panel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\demo_1\\components\\_settings-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\scss\\demo_1\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\demo_1\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\css\\lg-fb-comment-box.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\css\\lg-fb-comment-box.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\css\\lg-fb-comment-box.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\css\\lg-fb-comment-box.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\css\\lg-transitions.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\css\\lg-transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\css\\lg-transitions.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\css\\lg-transitions.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\css\\lightgallery.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\css\\lightgallery.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\css\\lightgallery.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\css\\lightgallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\fonts\\lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\fonts\\lg.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\img\\video-play.png",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\img\\video-play.png"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\img\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\img\\vimeo-play.png"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\img\\youtube-play.png",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\img\\youtube-play.png"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\js\\lightgallery-all.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\js\\lightgallery-all.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\js\\lightgallery-all.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\js\\lightgallery-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\js\\lightgallery.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\js\\lightgallery.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\js\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\js\\lightgallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\lightgallery\\lightgallery.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\lightgallery\\lightgallery.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\font\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ar-AR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ar-AR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-az-AZ.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-az-AZ.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-az-AZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-az-AZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-bg-BG.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-bg-BG.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ca-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ca-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-cs-CZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-cs-CZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-da-DK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-da-DK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-de-DE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-de-DE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-el-GR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-el-GR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-EU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-es-EU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fa-IR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fa-IR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fi-FI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fi-FI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fr-FR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-fr-FR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-gl-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-gl-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-he-IL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-he-IL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hr-HR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hr-HR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hu-HU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-hu-HU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-id-ID.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-id-ID.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-it-IT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-it-IT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ja-JP.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ja-JP.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ko-KR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ko-KR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LV.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-lt-LV.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-mn-MN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-mn-MN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nb-NO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nb-NO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nl-NL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-nl-NL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pl-PL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pl-PL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-BR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-BR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-PT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-pt-PT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ro-RO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ro-RO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ru-RU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ru-RU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sk-SK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sk-SK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sl-SI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sl-SI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sr-RS.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sv-SE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-sv-SE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ta-IN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-ta-IN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-th-TH.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-th-TH.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-tr-TR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-tr-TR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uk-UA.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uk-UA.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uz-UZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-uz-UZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-vi-VN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-vi-VN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-CN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-CN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-TW.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\lang\\summernote-zh-TW.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-0.8.18-dist.zip",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-0.8.18-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-lite.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-lite.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-lite.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote-lite.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\summernote\\dist\\summernote.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\summernote\\dist\\summernote.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\ti-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\ti-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\ti-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\ti-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\ti-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\ti-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\ti-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\ti-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\ti-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\ti-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\jquery.tinymce.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\jquery.tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\jquery.tinymce.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\jquery.tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\bbcode\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\bbcode\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\bbcode\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\bbcode\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\bbcode\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\bbcode\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\colorpicker\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\colorpicker\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\colorpicker\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\colorpicker\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\colorpicker\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\colorpicker\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\contextmenu\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\contextmenu\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\contextmenu\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\contextmenu\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\contextmenu\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\contextmenu\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\fullpage\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\fullpage\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\fullpage\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\fullpage\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\fullpage\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\fullpage\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\hr\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\hr\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\hr\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\hr\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\hr\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\hr\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\imagetools\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\imagetools\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\imagetools\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\imagetools\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\imagetools\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\imagetools\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\legacyoutput\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\legacyoutput\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\legacyoutput\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\noneditable\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\noneditable\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\noneditable\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\noneditable\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\noneditable\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\noneditable\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\paste\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\paste\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\paste\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\paste\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\paste\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\paste\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\print\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\print\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\print\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\print\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\print\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\print\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\spellchecker\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\spellchecker\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\spellchecker\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\spellchecker\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\spellchecker\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\spellchecker\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\tabfocus\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\tabfocus\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\tabfocus\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\tabfocus\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\tabfocus\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\tabfocus\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\template\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\template\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\textcolor\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\textcolor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\textcolor\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\textcolor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\textcolor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\textcolor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\textpattern\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\textpattern\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\textpattern\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\textpattern\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\textpattern\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\textpattern\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\toc\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\toc\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\toc\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\toc\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\toc\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\toc\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\readme.md",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\content.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\fonts\\tinymce-mobile.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\content.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\fonts\\tinymce-mobile.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.mobile.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\themes\\mobile\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\themes\\mobile\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\themes\\mobile\\theme.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\themes\\mobile\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\themes\\mobile\\theme.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\themes\\mobile\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\LICENCE.md",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\LICENCE.md"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\demo.html",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\typicons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\typicons.css"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\typicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\typicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\typicons.json",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\typicons.json"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\typicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\typicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\typicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\typicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\typicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\typicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\suhil\\source\\repos\\myproj\\Event_managment\\Event_managment\\wwwroot\\Admin\\vendors\\typicons\\typicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\typicons\\typicons.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Event_managment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Event_managment.props",
+      "PackagePath": "build\\Event_managment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Event_managment.props",
+      "PackagePath": "buildMultiTargeting\\Event_managment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Event_managment.props",
+      "PackagePath": "buildTransitive\\Event_managment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

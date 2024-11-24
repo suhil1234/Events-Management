@@ -1,0 +1,95 @@
+﻿@model VwVenueCapacityStatus
+
+<div class="row">
+    <div class="col-md-7 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Event Participation Summary</h4>
+                <div class="table-responsive">
+                    @if (ViewBag.LstEventParticipantSummary == null)
+                    {
+                        <p>No event participation data available.</p>
+                    }
+                    else
+                    {
+                        <table id="order-listing" class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>@ResAdmin.lblEventName</th>
+                                    <th>@ResAdmin.lblParticipantsCount</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var EventParticipationSummary in ViewBag.LstEventParticipantSummary)
+                                {
+                                    <tr>
+                                        <td>@EventParticipationSummary.EventName</td>
+                                        <td>@EventParticipationSummary.ParticipantCount</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3 grid-margin stretch-card">
+        <div class="card">
+            <div class="form-group">
+                <label for="exampleInputUsername1">@ResAdmin.lblLocation</label>
+                <select id="locationSelect" onchange="Search(this)"
+                        asp-items="@(new SelectList(ViewBag.LstLocations, "LocationId", "LocationName", Model.LocationId))"
+                        class="form-control">
+                </select>
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Location Capacity</h4>
+
+                @if (Model != null && Model.Capacity > 0)
+                {
+                    <canvas id="traffic-chart" width="233" height="116" style="display: block; height: 93px; width: 187px;" class="chartjs-render-monitor"></canvas>
+                    <div id="traffic-chart-legend" class="rounded-legend legend-vertical legend-bottom-left pt-4">
+                        <ul>
+                            <li>
+                                <span class="legend-dots" style="background:linear-gradient(to right, rgba(255, 0, 0, 1), rgba(255, 100, 100, 1))"></span>
+                                Participants
+                                <span class="float-right">@((Model.CurrentParticipants / (double)Model.Capacity) * 100)%</span>
+                            </li>
+                            <li>
+                                <span class="legend-dots" style="background:linear-gradient(to right, rgba(0, 255, 0, 1), rgba(100, 255, 100, 1))"></span>
+                                Capacity
+                                <span class="float-right">@((Model.Capacity - Model.CurrentParticipants) / (double)Model.Capacity * 100)%</span>
+                            </li>
+                        </ul>
+                    </div>
+                }
+                else
+                {
+                    <p>No venue data available.</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script src="~/Admin/vendors/datatables.net/jquery.dataTables.js"></script>
+    <script src="~/Admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+    <script src="~/Admin/js/data-table.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/Admin/js/Home.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Only initialize the chart if the model has valid data
+            if (@(Model != null && Model.Capacity > 0 ? "true" : "false")) {
+                var currentParticipants = @Model.CurrentParticipants;
+                var availableCapacity = @Model.Capacity - @Model.CurrentParticipants;
+                initializeChart(currentParticipants, availableCapacity); // Call the function to initialize the chart in home.js
+            }
+        });
+    </script>
+}
